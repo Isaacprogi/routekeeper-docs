@@ -1,6 +1,9 @@
 ---
-sidebar: false
+id: route-keeper
+title: Route Keeper
+sidebar_label: "@routeKeeper"
 ---
+
 
 # RouteKeeper — React RouteGuard for role-based and protected routing.
 

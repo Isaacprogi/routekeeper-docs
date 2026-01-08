@@ -38,7 +38,7 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: false,
+          sidebarPath: require.resolve('./sidebars.ts'),
           exclude: ['**/LICENSE', '**/LICENSE.md'],
           editUrl: 'https://github.com/isaacprogi/routekeeper/tree/main/',
         },
